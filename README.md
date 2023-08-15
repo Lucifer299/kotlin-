@@ -1,1 +1,1 @@
-# kotlin база синтакис и функции
+# kotlin cheat sheets
